@@ -5,6 +5,14 @@
 #profile-web-page-url: https://github.com/hamedp-71
 
 
+vless://4a1fce21-0e94-4fc7-abb5-4b91f2c672be@homestead-walloping.sports-streams.org:443?encryption=none&type=xhttp&path=%2F&host=www.gr-cdn.com&mode=auto&security=reality&sni=www.gr-cdn.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20Domain
+vless://4a1fce21-0e94-4fc7-abb5-4b91f2c672be@coughed-gongs.freevideochats.org:443?encryption=none&type=xhttp&path=%2F&host=my.worldoftanks.com&mode=auto&security=reality&sni=my.worldoftanks.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20Domain
+vless://4a1fce21-0e94-4fc7-abb5-4b91f2c672be@87.120.106.95:443?encryption=none&type=xhttp&path=%2F&host=www.gr-cdn.com&mode=auto&security=reality&sni=www.gr-cdn.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv4
+vless://4a1fce21-0e94-4fc7-abb5-4b91f2c672be@[2a03:90c0:162:1::360]:443?encryption=none&type=xhttp&path=%2F&host=www.gr-cdn.com&mode=auto&security=reality&sni=www.gr-cdn.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv6
+vless://4a1fce21-0e94-4fc7-abb5-4b91f2c672be@162.216.231.214:443?encryption=none&type=xhttp&path=%2F&host=my.worldoftanks.com&mode=auto&security=reality&sni=my.worldoftanks.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv4
+vless://4a1fce21-0e94-4fc7-abb5-4b91f2c672be@[2a03:90c0:32:1::541]:443?encryption=none&type=xhttp&path=%2F&host=my.worldoftanks.com&mode=auto&security=reality&sni=my.worldoftanks.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv6
+
+
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA%3D%3D@218.237.185.230:4652#hamedvpns-🇰🇷
 
 
