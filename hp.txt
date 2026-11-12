@@ -5,6 +5,14 @@
 #profile-web-page-url: https://github.com/hamedp-71
 
 
+vless://ecdde9cd-2c7f-4a4e-9ad5-ecef6e5f145d@homestead-walloping.sports-streams.org:443?encryption=none&type=xhttp&path=%2F&host=rss.worldoftanks.asia&mode=auto&security=reality&sni=rss.worldoftanks.asia&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20Domain
+vless://ecdde9cd-2c7f-4a4e-9ad5-ecef6e5f145d@coughed-gongs.freevideochats.org:443?encryption=none&type=xhttp&path=%2F&host=smyk.com&mode=auto&security=reality&sni=smyk.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20Domain
+vless://ecdde9cd-2c7f-4a4e-9ad5-ecef6e5f145d@87.120.106.95:443?encryption=none&type=xhttp&path=%2F&host=rss.worldoftanks.asia&mode=auto&security=reality&sni=rss.worldoftanks.asia&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv4
+vless://ecdde9cd-2c7f-4a4e-9ad5-ecef6e5f145d@[2a03:90c0:162:1::360]:443?encryption=none&type=xhttp&path=%2F&host=rss.worldoftanks.asia&mode=auto&security=reality&sni=rss.worldoftanks.asia&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv6
+vless://ecdde9cd-2c7f-4a4e-9ad5-ecef6e5f145d@162.216.231.214:443?encryption=none&type=xhttp&path=%2F&host=smyk.com&mode=auto&security=reality&sni=smyk.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv4
+vless://ecdde9cd-2c7f-4a4e-9ad5-ecef6e5f145d@[2a03:90c0:32:1::541]:443?encryption=none&type=xhttp&path=%2F&host=smyk.com&mode=auto&security=reality&sni=smyk.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv6
+
+
 vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@coughed-gongs.freevideochats.org:443?encryption=none&type=xhttp&path=%2F&host=samoanews.com&mode=auto&security=reality&sni=samoanews.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20Domain
 vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@homestead-walloping.sports-streams.org:443?encryption=none&type=xhttp&path=%2F&host=worldoftanks.com&mode=auto&security=reality&sni=worldoftanks.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20Domain
 vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@162.216.231.214:443?encryption=none&type=xhttp&path=%2F&host=samoanews.com&mode=auto&security=reality&sni=samoanews.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv4
