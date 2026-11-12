@@ -5,6 +5,14 @@
 #profile-web-page-url: https://github.com/hamedp-71
 
 
+vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@coughed-gongs.freevideochats.org:443?encryption=none&type=xhttp&path=%2F&host=samoanews.com&mode=auto&security=reality&sni=samoanews.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20Domain
+vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@homestead-walloping.sports-streams.org:443?encryption=none&type=xhttp&path=%2F&host=worldoftanks.com&mode=auto&security=reality&sni=worldoftanks.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20Domain
+vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@162.216.231.214:443?encryption=none&type=xhttp&path=%2F&host=samoanews.com&mode=auto&security=reality&sni=samoanews.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv4
+vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@[2a03:90c0:32:1::541]:443?encryption=none&type=xhttp&path=%2F&host=samoanews.com&mode=auto&security=reality&sni=samoanews.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv6
+vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@87.120.106.95:443?encryption=none&type=xhttp&path=%2F&host=worldoftanks.com&mode=auto&security=reality&sni=worldoftanks.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv4
+vless://e8655f37-95d3-4a69-b23b-8623d059bdf5@[2a03:90c0:162:1::360]:443?encryption=none&type=xhttp&path=%2F&host=worldoftanks.com&mode=auto&security=reality&sni=worldoftanks.com&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv6
+
+
 vless://ab943ffd-f0e6-4039-936c-dc8ad23d01f6@caudal-reason.freevideochats.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.worldoftanks.eu&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4#Kansas%20City%20via%20Istanbul%20%C2%B7%20Domain
 vless://ab943ffd-f0e6-4039-936c-dc8ad23d01f6@crewmen-grittier.freevideochats.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=game.worldoftanks.com&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4#Kansas%20City%20via%20Chicago%20%C2%B7%20Domain
 vless://ab943ffd-f0e6-4039-936c-dc8ad23d01f6@213.156.152.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.worldoftanks.eu&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv4
